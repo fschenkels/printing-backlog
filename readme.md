@@ -8,12 +8,13 @@ Everything here is mostly organized by branches:
 - `backlog`: ordered list of the next prints (hopefully) I'm gonna get.
 - `unsure`: stuff that caught my attention but I'm still unsure if I'll print them for myself.
 - `refs`: references I use for learning 3D design, get inspiration from, etc.
+- `log`: prints I already finished.
 
 ## Printing plan
 
 Here you find the parts I'm printing next, in order.
 
-> **Note about parts colors:** unless otherwise specified, I don't care about which color I'm gonna get each print (as long as all individual parts involved in a given print are all the same color).
+> **Note about prints colors:** unless otherwise specified, I don't care about which color I'm gonna get each print (as long as all individual part involved in a given print are all the same color).
 
 1. [2 complete skeletyl keyboards](./keyboards/skeletyl/skeletyl.md)
 2. [1 complete dactyl keyboard](./keyboards/dactyl/dactyl.md)
