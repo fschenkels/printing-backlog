@@ -20,5 +20,3 @@ A complete case consists **(files available in this folder)**:
 
 - Don't forget to add support while slicing.
 
-
-ource
