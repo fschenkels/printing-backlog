@@ -13,5 +13,10 @@ Everything here is mostly organized by branches:
 
 Here you find the parts I'm printing next, in order.
 
-1. []()
+1. [2 complete skeletyl keyboards](./keyboards/skeletyl/skeletyl.md)
+2. [1 complete dactyl keyboard](./keyboards/dactyl/dactyl.md)
+
+## Tips
+
+- If you need to check how well your bed is calibrated, [this might be useful]()
 
