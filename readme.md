@@ -18,5 +18,5 @@ Here you find the parts I'm printing next, in order.
 
 ## Tips
 
-- If you need to check how well your bed is calibrated, [this might be useful]()
+- If you need to check how well your bed is calibrated, [this might be useful](https://github.com/fschenkels/printing-backlog/blob/87ef2cf69a9310022ce3871bf63530dd39b8df3d/utils/first-layer-tester.stl)
 
