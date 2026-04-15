@@ -17,8 +17,6 @@ Here you find the parts I'm printing next, in order.
 > **Note about prints' colors:** unless otherwise specified, I don't care in which color I'm gonna get each print (as long as all individual part involved in a given print are all the same color).
 
 1. [2 complete skeletyl keyboards](./keyboards/skeletyl/skeletyl.md)
-2. [1 complete dactyl keyboard](./keyboards/dactyl/dactyl.md)
-3. [1 complete waveshare screen case](./waveshare-screen/rpi-integrated/rpi-integrated.md)
 
 ## Tips
 
